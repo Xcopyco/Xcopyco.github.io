@@ -1,8 +1,12 @@
 ---
 published: true
-title: Hello world
+title: Hello world we are Xcopy Team 
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/Xcopyco/Xcopyco.github.io](http://github.com/Xcopyco/Xcopyco.github.io). Be nice. Give credit. Share, don't steal :)
-
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Hi 
+I'm H.shtis CEO Xcopy.co 
+Thanks for visiting our blog 
+We help StartUp companies and developers to Choose the appropriate business plan 
+How to increase sales and profits
+http://xcopy.co/
+Thanks 
