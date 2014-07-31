@@ -2,6 +2,7 @@
 published: true
 title: Hello world we are Xcopy Team 
 layout: post
+tags: [Billing, Subscription, Saas, Model]
 ---
 Hi 
 I'm H.shtis CEO Xcopy.co 
