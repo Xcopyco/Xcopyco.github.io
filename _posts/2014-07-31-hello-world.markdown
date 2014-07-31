@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hello world we are Xcopy Team 
 layout: post
 ---
