@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Hello world we are Xcopy Team 
 layout: post
 ---
@@ -9,4 +9,4 @@ Thanks for visiting our blog
 We help StartUp companies and developers to Choose the appropriate business plan 
 How to increase sales and profits
 http://xcopy.co/
-Thanks 
+Thanks
